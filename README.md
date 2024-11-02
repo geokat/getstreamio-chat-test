@@ -16,6 +16,6 @@ This will make the app create a channel and user `u1` and start
 sending a stream of messages into the channel, one per second. Watch
 the dev console for incoming messages in the channel.
 
-Open more client{n}.html files in different browser windows/tabs
+Open more `client{n}.html` files in different browser windows/tabs
 and watch the created users join the channel and send messages.
 
